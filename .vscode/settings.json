@@ -1,8 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "c:\\Users\\moon1\\Downloads\\twilio-8.9.0-jar-with-dependencies.jar",
-        "c:\\Users\\moon1\\Downloads\\twilio-8.9.0.jar"
-    ]
-
-}
